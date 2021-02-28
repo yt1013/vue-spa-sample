@@ -109,6 +109,19 @@
       <path value="$PROJECT_DIR$/app/vendor/graham-campbell/result-type" />
       <path value="$PROJECT_DIR$/app/vendor/laravel/sail" />
       <path value="$PROJECT_DIR$/app/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/app/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/app/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/app/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/app/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/app/vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/app/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/app/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/app/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/app/vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/app/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/app/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/app/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/app/vendor/maximebf/debugbar" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
