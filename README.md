@@ -2,22 +2,23 @@
 
 ## 環境構築手順
 
-### Dockerの起動
+### 1. Dockerの起動
 
 ```
 docker-compose build
 docker-compose up
 ```
 
-### Composerのインストール&app_keyの生成
+### 2. ライブラリのインストール&app_keyの生成
 
 ```
 docker-compose run --rm app composer install
 docker-compose run --rm app php artisan key:generate
 ```
 
-### Nodeのインストール
+### 3. パッケージのインストール、実行
 
 ```
 docker-compose run --rm node install
+docker-compose run --rm node run dev
 ```
