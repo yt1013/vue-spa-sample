@@ -106,6 +106,9 @@
       <path value="$PROJECT_DIR$/app/vendor/psr/http-message" />
       <path value="$PROJECT_DIR$/app/vendor/psr/log" />
       <path value="$PROJECT_DIR$/app/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/app/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/app/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/app/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
